@@ -1,1 +1,1 @@
-# FakeNews
+# An application to detect fake news
